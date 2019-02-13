@@ -19,6 +19,8 @@ class Enemy {
     this.ctx.fillStyle = 'red';
     this.ctx.fillRect(this.x, this.y - this.size / 2, this.size, this.size);
   };
+
   
+
 
 }
